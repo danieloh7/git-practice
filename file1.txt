@@ -1,4 +1,4 @@
 Hello from Notepad
 Let's see this through!
-merge conflict
-Notepad > Vim?
+I Love Merge Conflicts
+Notepad < Vim?
